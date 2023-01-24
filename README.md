@@ -20,7 +20,7 @@ Download and install Node.js from this link https://nodejs.org/en/download/
 
 ### 2. Clone or download this repo.
 
-On your terminal or cmd, type: `git clone git@github.com:phuclevinh2000/Lofi-website.git`
+On your terminal or cmd, type: `git clone git@github.com:Vitbautroi/lofivitbautroi.git`
 
 . On your command line, navigate to root folder and install: `npm install`
 
