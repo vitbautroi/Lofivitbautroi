@@ -10,7 +10,7 @@ This project is a clone of Lofi.co and adding some function lick todolist, count
 
 # Demo
 
-[Demo](https://lofiphucle.netlify.app/)
+[Demo](https://lofivitbautroi.vercel.app/)
 
 ## How to build and run
 
